@@ -28,3 +28,4 @@ Link it into your program using:
     LDFLAGS=-Llibut -lut
 
 Examples of using utvector are in libut/tests.
+# libut
